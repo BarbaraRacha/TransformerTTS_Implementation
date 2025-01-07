@@ -8,7 +8,7 @@ This repository is a PyTorch implementation of a neural network-based speech syn
 
 ### Model architecture
 
-![Transformer architecture](./asset/transformer-tts-architecture.png)
+![Transformer architecture](./assets/transformer-tts-architecture.png)
 
 <br>
 
@@ -25,6 +25,6 @@ The dataset used is the English speech dataset LJSpeech. In the Jupyter notebook
 
 The training was conducted with a batch size of 16 on a total of 13,100 voice datasets for 10 epochs. The result is expressed as a gif showing the predicted mel spectrogram and the ground truth mel spectrogram every 100 steps.
 
-![training result](./asset/transformer-tts-result.gif)
+![training result](./assets/transformer-tts-result.gif)
 
 <br>
